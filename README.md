@@ -1,5 +1,9 @@
 # SA2---Grupo-8
 
+# LINKS: 
+
+Link thingspeak: https://thingspeak.com/channels/2140761
+
 # 1) a) O ThingSpeak é uma plataforma de Internet das Coisas (IoT) desenvolvida pela MathWorks, que permite a coleta, análise e visualização de dados de dispositivos IoT conectados. Ele fornece uma plataforma baseada na nuvem para coletar e analisar dados de sensores e outros dispositivos IoT, além de permitir que os usuários criem aplicativos baseados em IoT para monitorar e controlar seus dispositivos.
 
 Existem várias maneiras de explorar a plataforma ThingSpeak, algumas das quais são:
