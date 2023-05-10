@@ -6,8 +6,7 @@ Link thingspeak: https://thingspeak.com/channels/2140761
 
 Link wokwi: https://wokwi.com/projects/363663417369812993
 
-# 1) a) Descreva a plataforma IOT Thingspeak e cite exemplos de como explorá-la
-de outra forma:
+# 1) a) Descreva a plataforma IOT Thingspeak e cite exemplos de como explorá-la de outra forma:
 
 O ThingSpeak é uma plataforma de Internet das Coisas (IoT) desenvolvida pela MathWorks, que permite a coleta, análise e visualização de dados de dispositivos IoT conectados. Ele fornece uma plataforma baseada na nuvem para coletar e analisar dados de sensores e outros dispositivos IoT, além de permitir que os usuários criem aplicativos baseados em IoT para monitorar e controlar seus dispositivos.
 
