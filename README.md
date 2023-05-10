@@ -6,7 +6,10 @@ Link thingspeak: https://thingspeak.com/channels/2140761
 
 Link wokwi: https://wokwi.com/projects/363663417369812993
 
-# 1) a) O ThingSpeak é uma plataforma de Internet das Coisas (IoT) desenvolvida pela MathWorks, que permite a coleta, análise e visualização de dados de dispositivos IoT conectados. Ele fornece uma plataforma baseada na nuvem para coletar e analisar dados de sensores e outros dispositivos IoT, além de permitir que os usuários criem aplicativos baseados em IoT para monitorar e controlar seus dispositivos.
+# 1) a) Descreva a plataforma IOT Thingspeak e cite exemplos de como explorá-la
+de outra forma:
+
+O ThingSpeak é uma plataforma de Internet das Coisas (IoT) desenvolvida pela MathWorks, que permite a coleta, análise e visualização de dados de dispositivos IoT conectados. Ele fornece uma plataforma baseada na nuvem para coletar e analisar dados de sensores e outros dispositivos IoT, além de permitir que os usuários criem aplicativos baseados em IoT para monitorar e controlar seus dispositivos.
 
 Existem várias maneiras de explorar a plataforma ThingSpeak, algumas das quais são:
 
@@ -22,7 +25,9 @@ Existem várias maneiras de explorar a plataforma ThingSpeak, algumas das quais 
 
 Esses são apenas alguns exemplos de como a plataforma ThingSpeak pode ser explorada para coletar, analisar e visualizar dados de dispositivos IoT. A plataforma é altamente flexível e pode ser usada em uma ampla variedade de aplicações, dependendo das necessidades específicas do usuário.
 
-# 1) b) Este é um exemplo de código que utiliza o sensor DHT22 para coletar dados de temperatura e umidade e enviar para a plataforma ThingSpeak, através da API HTTP. A integração é feita utilizando o protocolo WiFi e o módulo ESP32.
+# 1) b) Documente os passos de configuração e desenvolvimento da integração:
+
+Este é um exemplo de código que utiliza o sensor DHT22 para coletar dados de temperatura e umidade e enviar para a plataforma ThingSpeak, através da API HTTP. A integração é feita utilizando o protocolo WiFi e o módulo ESP32.
 
 A seguir estão os passos de configuração e desenvolvimento da integração:
 
